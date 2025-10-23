@@ -1,8 +1,5 @@
 # 1DAM2526Branches
 
-Mi telefono
+Añado esta línea con mi contacto desde rama: nersanten@alu.du.es (Mi teléfono)
 
 Cambio desde GitHub
-
-
-
